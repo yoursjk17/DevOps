@@ -1,3 +1,7 @@
 test
+<<<<<<< Updated upstream
 xs
 ssdsadsad
+=======
+1234dasdsad
+>>>>>>> Stashed changes
